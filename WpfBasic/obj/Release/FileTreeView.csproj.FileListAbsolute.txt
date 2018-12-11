@@ -1,0 +1,14 @@
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\MainWindow.g.cs
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\App.g.cs
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\MainWindow.baml
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView.csproj.GenerateResource.cache
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView.csproj.CoreCompileInputs.cache
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\bin\Release\FileTreeView.exe.config
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\bin\Release\FileTreeView.exe
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\bin\Release\FileTreeView.pdb
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView_MarkupCompile.cache
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView_MarkupCompile.lref
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView.g.resources
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView.Properties.Resources.resources
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView.exe
+C:\Users\ydtg1\source\repos\WpfBasic\WpfBasic\obj\Release\FileTreeView.pdb
